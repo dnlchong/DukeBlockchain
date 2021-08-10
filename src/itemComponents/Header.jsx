@@ -13,7 +13,7 @@ export default function Header(){
     return (
     <Popover>
         {({ open }) => (
-          <div className="relative pt-6 pb-6 sm:pb-6 bg-gray-50">
+          <div className="relative pt-6 pb-6 sm:pb-6  bg-gray-50">
             <div className="max-w-7xl mx-auto px-4 sm:px-6">
               <nav
                 className="relative flex items-center justify-between sm:h-10 md:justify-center"

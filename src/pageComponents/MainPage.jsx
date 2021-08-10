@@ -5,7 +5,6 @@ import Footer from "../itemComponents/Footer";
 export default function MainPage() {
     return(
         <>
-            <Header/>
             <MainPageHero/>
             <MainPageBody/>
             <Footer/>
