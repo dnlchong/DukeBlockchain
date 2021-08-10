@@ -3,13 +3,14 @@ import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
+const navigation = [
+  { name: 'Team', href: '/team' },
+  { name: 'Initiatives', href: '/initiatives' },
+  { name: 'Fund', href: '/fund' },
+  { name: 'Course', href: '/course' },
+]
+
 export default function Header(){
-    const navigation = [
-        { name: 'Product', href: '#' },
-        { name: 'Features', href: '#' },
-        { name: 'Marketplace', href: '#' },
-        { name: 'Company', href: '#' },
-      ]
     return (
     <Popover>
         {({ open }) => (
@@ -21,7 +22,7 @@ export default function Header(){
               >
                 <div className="flex items-center flex-1 md:absolute md:inset-y-0 md:left-0">
                   <div className="flex items-center justify-between w-full md:w-auto">
-                    <a href="#">
+                    <a href="/">
                       <span className="sr-only">Workflow</span>
                       <img
                         className="h-8 w-auto sm:h-10"
@@ -47,7 +48,7 @@ export default function Header(){
                 <div className="hidden md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
                   <span className="inline-flex rounded-md shadow">
                     <a
-                      href="#"
+                      href="/"
                       className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50"
                     >
                       Log in
@@ -100,7 +101,7 @@ export default function Header(){
                     ))}
                   </div>
                   <a
-                    href="#"
+                    href="/"
                     className="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100"
                   >
                     Log in
