@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DukeBlockchain/static/css/main.e35d7b96.chunk.css",
-    "main.js": "/DukeBlockchain/static/js/main.91104469.chunk.js",
-    "main.js.map": "/DukeBlockchain/static/js/main.91104469.chunk.js.map",
+    "main.js": "/DukeBlockchain/static/js/main.a3a981c7.chunk.js",
+    "main.js.map": "/DukeBlockchain/static/js/main.a3a981c7.chunk.js.map",
     "runtime-main.js": "/DukeBlockchain/static/js/runtime-main.f4c4af3d.js",
     "runtime-main.js.map": "/DukeBlockchain/static/js/runtime-main.f4c4af3d.js.map",
     "static/js/2.129e52e0.chunk.js": "/DukeBlockchain/static/js/2.129e52e0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f4c4af3d.js",
     "static/js/2.129e52e0.chunk.js",
     "static/css/main.e35d7b96.chunk.css",
-    "static/js/main.91104469.chunk.js"
+    "static/js/main.a3a981c7.chunk.js"
   ]
 }
