@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dukeblockchain/static/css/main.e35d7b96.chunk.css",
+    "main.js": "/dukeblockchain/static/js/main.91104469.chunk.js",
+    "main.js.map": "/dukeblockchain/static/js/main.91104469.chunk.js.map",
+    "runtime-main.js": "/dukeblockchain/static/js/runtime-main.624f2164.js",
+    "runtime-main.js.map": "/dukeblockchain/static/js/runtime-main.624f2164.js.map",
+    "static/js/2.129e52e0.chunk.js": "/dukeblockchain/static/js/2.129e52e0.chunk.js",
+    "static/js/2.129e52e0.chunk.js.map": "/dukeblockchain/static/js/2.129e52e0.chunk.js.map",
+    "static/js/3.8ce5b3c1.chunk.js": "/dukeblockchain/static/js/3.8ce5b3c1.chunk.js",
+    "static/js/3.8ce5b3c1.chunk.js.map": "/dukeblockchain/static/js/3.8ce5b3c1.chunk.js.map",
+    "index.html": "/dukeblockchain/index.html",
+    "static/css/main.e35d7b96.chunk.css.map": "/dukeblockchain/static/css/main.e35d7b96.chunk.css.map",
+    "static/js/2.129e52e0.chunk.js.LICENSE.txt": "/dukeblockchain/static/js/2.129e52e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.624f2164.js",
+    "static/js/2.129e52e0.chunk.js",
+    "static/css/main.e35d7b96.chunk.css",
+    "static/js/main.91104469.chunk.js"
+  ]
+}
